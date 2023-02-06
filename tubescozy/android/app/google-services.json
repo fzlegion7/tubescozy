@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155006844025",
+    "project_id": "tubes-cozy-8c55a",
+    "storage_bucket": "tubes-cozy-8c55a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155006844025:android:83cdc2d8e37dcc3b8628a8",
+        "android_client_info": {
+          "package_name": "com.example.tubescozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155006844025-ff1kus7oapjc0pdnj0t9ocaa4pv8hs6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-85jRZqkEeHU9FXLxcyk7oD4qOkuLtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155006844025-ff1kus7oapjc0pdnj0t9ocaa4pv8hs6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
